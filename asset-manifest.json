@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FRaDOS/static/css/main.cd6ae626.css",
+    "main.js": "/FRaDOS/static/js/main.c21c4e1d.js",
+    "static/js/787.6bf473bb.chunk.js": "/FRaDOS/static/js/787.6bf473bb.chunk.js",
+    "static/media/imgStill.gif": "/FRaDOS/static/media/imgStill.35d58539581c1f1638fa.gif",
+    "static/media/GIF 4.gif": "/FRaDOS/static/media/GIF 4.8b8717c9125c113ebfbe.gif",
+    "static/media/logo.png": "/FRaDOS/static/media/logo.568b04aff6efbb42af81.png",
+    "index.html": "/FRaDOS/index.html",
+    "main.cd6ae626.css.map": "/FRaDOS/static/css/main.cd6ae626.css.map",
+    "main.c21c4e1d.js.map": "/FRaDOS/static/js/main.c21c4e1d.js.map",
+    "787.6bf473bb.chunk.js.map": "/FRaDOS/static/js/787.6bf473bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd6ae626.css",
+    "static/js/main.c21c4e1d.js"
+  ]
+}
