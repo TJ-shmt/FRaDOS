@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/FRaDOS/static/css/main.692f1e70.css",
-    "main.js": "/FRaDOS/static/js/main.d8b57c71.js",
+    "main.css": "/FRaDOS/static/css/main.b06e9f58.css",
+    "main.js": "/FRaDOS/static/js/main.33c07e89.js",
     "static/js/787.6bf473bb.chunk.js": "/FRaDOS/static/js/787.6bf473bb.chunk.js",
     "static/media/imgStill.gif": "/FRaDOS/static/media/imgStill.35d58539581c1f1638fa.gif",
     "static/media/GIF 4.gif": "/FRaDOS/static/media/GIF 4.8b8717c9125c113ebfbe.gif",
+    "static/media/cat_death1.gif": "/FRaDOS/static/media/cat_death1.d9ae39e145c0561a69ed.gif",
+    "static/media/cat_main.png": "/FRaDOS/static/media/cat_main.360c20ce81026c00101c.png",
     "static/media/logo.png": "/FRaDOS/static/media/logo.568b04aff6efbb42af81.png",
     "index.html": "/FRaDOS/index.html",
-    "main.692f1e70.css.map": "/FRaDOS/static/css/main.692f1e70.css.map",
-    "main.d8b57c71.js.map": "/FRaDOS/static/js/main.d8b57c71.js.map",
+    "main.b06e9f58.css.map": "/FRaDOS/static/css/main.b06e9f58.css.map",
+    "main.33c07e89.js.map": "/FRaDOS/static/js/main.33c07e89.js.map",
     "787.6bf473bb.chunk.js.map": "/FRaDOS/static/js/787.6bf473bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.692f1e70.css",
-    "static/js/main.d8b57c71.js"
+    "static/css/main.b06e9f58.css",
+    "static/js/main.33c07e89.js"
   ]
 }
