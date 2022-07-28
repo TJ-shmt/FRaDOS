@@ -3,7 +3,9 @@
 
 [❮ Try it out](https://tj-shmt.github.io/FRaDOS/)
 ## About 
-FRaDOS took place as part of Olia Lialina's semester project ["Drama and UX. Interfaces for screen and no screen scenarios."](https://pad.profolia.org/s/drama#) at the Merz Akademie. 
+FRaDOS took place as part of Olia Lialina's semester project ["Drama and UX. Interfaces for screen and no screen scenarios."](https://pad.profolia.org/s/drama#) at the Merz Akademie. </br>
+Design and Animations by Laura Torras Piqué.</br>
+Frontend by TJ Schmitt.
 </br>
 </br>
 *This project is currently a work in progress.*
