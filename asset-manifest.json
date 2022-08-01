@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FRaDOS/static/css/main.6d4ccb56.css",
-    "main.js": "/FRaDOS/static/js/main.da45ee82.js",
+    "main.js": "/FRaDOS/static/js/main.f2ae1417.js",
     "static/js/787.6bf473bb.chunk.js": "/FRaDOS/static/js/787.6bf473bb.chunk.js",
     "static/media/cat_death1.gif": "/FRaDOS/static/media/cat_death1.d9ae39e145c0561a69ed.gif",
     "static/media/cat_death3.gif": "/FRaDOS/static/media/cat_death3.aadf860a594cff1ed169.gif",
@@ -10,11 +10,11 @@
     "static/media/logo.png": "/FRaDOS/static/media/logo.568b04aff6efbb42af81.png",
     "index.html": "/FRaDOS/index.html",
     "main.6d4ccb56.css.map": "/FRaDOS/static/css/main.6d4ccb56.css.map",
-    "main.da45ee82.js.map": "/FRaDOS/static/js/main.da45ee82.js.map",
+    "main.f2ae1417.js.map": "/FRaDOS/static/js/main.f2ae1417.js.map",
     "787.6bf473bb.chunk.js.map": "/FRaDOS/static/js/787.6bf473bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d4ccb56.css",
-    "static/js/main.da45ee82.js"
+    "static/js/main.f2ae1417.js"
   ]
 }
